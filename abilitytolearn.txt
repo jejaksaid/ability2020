@@ -1,0 +1,103 @@
+some ability to learn for getting jobs in 2020 (and further)
+
+SOFTWARE ENGINEER (QT/UI)
+(Can you build a Waze like app people will use? 
+then reimagine it combined with openpilot)
+qualifications:
+1. QT5 or similar SDK experience
+2. C++ / JavaScript coding skills
+3. Good design sense. Game development experience a plus
+4. ability to deliver on a quality experience
+
+SENIOR FULL STACK ENGINEER
+(as a full stack engineer, you will own our iOS and Android apps for comma connect, 
+our api, and build new features for comma prime subs. Knowledge of the self driving car
+space is not required, but enthusiasm is appreciated. Ideally, you can architect, 
+develop, test, and deliver independently.)
+qualifications:
+1. Fluent in Python and React
+2. iOS and Android app development
+3. Ability to deliver a quality experience
+4. Highly independent and detail oriented
+5. Strong design sense (UI/UX)
+
+SENIOR SOFTWARE ENGINEER / SOFTWARE ENGINEER
+(As partof the openpilot team, your responsibilities include developing new features,
+  building simulation and testing infrastructure, and improving the tools our community
+uses to develop openpilot)
+qualifications:
+1. Excellent Python and Linux skills, at least a familiarity with C/C++
+2. Write fast and efficient code that runs on hardware with limited compute resource
+3. Ability to independently write, test and ship software to thousands of users.
+
+ML ENGINEER / DATA SCIENTIST
+(As part of the Research Team, you'll be working on our ML pipeline. You'll work on our 
+automatic ground truthing, improve our internal segnets/deptnets and work on infrastructure to process/analyse millions of miles of driving data.
+qualifications:
+1. Fluent in Python / C / C++
+2. Experience with computer vision
+3. Experience with training models 
+4. Know things like SLAM, rotation matrices, TensorFlow, softmax, and ground truthing
+
+SAFETY ENGINEER	
+(as a safety engineer, you'll work on our safety enforcement code and write safety code for new car ports. You'll also be responsible for evolving our safety model as openpilot becomes more capable. 
+qualifications:
+1. Fluent in C / Python
+2. Familiarity with ISO26262 and other automotive safety standards
+qualifications:
+1. Excellent Python and Linux skills, at least a familiarity with C/C++
+2. Write fast and efficient code that runs on hardware with limited compute resource
+3. Ability to independently write, test and ship software to thousands of users.
+
+ML ENGINEER / DATA SCIENTIST
+(As part of the Research Team, you'll be working on our ML pipeline. You'll work on our 
+automatic ground truthing, improve our internal segnets/deptnets and work on infrastructure to process/analyse millions of miles of driving data.
+qualifications:
+1. Fluent in Python / C / C++
+2. Experience with computer vision
+3. Experience with training models 
+4. Know things like SLAM, rotation matrices, TensorFlow, softmax, and ground truthing
+
+SAFETY ENGINEER	
+(as a safety engineer, you'll work on our safety enforcement code and write safety code for new car ports. You'll also be responsible for evolving our safety model as openpilot becomes more capable. 
+qualifications:
+1. Fluent in C / Python
+2. Familiarity with ISO26262 and other automotive safety standards
+3. A good mindset for what safety means at scale
+4. Know things about cars, CAN, C, programming, and automotive standards
+
+INFRASTRUCTURE ENGINEER
+(as as infrastructure engineer, you'll work on our tooling, regression test, and 
+simulator)
+qualifications:
+1. Excellent Python and Linux skills, at least a familiarity with C/C++
+2. Having pull requests upsteamed to openpilot is a plus
+3. Know things about operating systems, CI, and testing
+
+OFFICE MANAGER
+qualifications:
+1. Office maintenance and management (managing all necessary policies/insurances)
+2. Expense reconciliation and other purchasing support (POs, license renewals, etc)
+3. Employee logisctics (new hires, dismissed employees, Visas, etc)
+4. Managing access permissions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
